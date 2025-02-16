@@ -11,3 +11,7 @@ Artificial Intelligence and Data Science projects
       * on the client web interface, navigate to any notebook from the repo
         * example: `/study_materials/pandas/pandas_basics.ipynb`
       * run all cells for the chosen notebook
+
+### Additional Info:
+* The data sets are referenced from `data_sets` branch
+* Checkout to branch `data_sets` and open `data_sets` folder to find them
